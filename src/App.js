@@ -156,7 +156,7 @@ const onsubmit =()=>{
         </div>
         <div className="card flex justify-content-center">
         <h3>Anagram Check </h3>
-        <Container>
+       
             <Row>
               <Col xs={6} md={6}>
                 <Form.Group className="mb-3" controlId="formBasicEmail">
@@ -183,7 +183,7 @@ const onsubmit =()=>{
             </Col>
             </Row>
            
-          </Container>
+         
           <ToastContainer />
             </div>
         
