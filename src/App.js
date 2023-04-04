@@ -155,6 +155,7 @@ const onsubmit =()=>{
         </Modal>
         </div>
         <div className="card flex justify-content-center">
+        <h3>Anagram Check </h3>
         <Container>
             <Row>
               <Col xs={6} md={6}>
